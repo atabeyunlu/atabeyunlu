@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atabey</h1>
 
-I'm a Machine Learning practioner with expertise in AI-driven solutions for biotechnology and drug discovery. I have Msc in Bioinformatics, combined with hands-on experience in developing generative models and utilizing natural language processing architectures for drug discovery and molecular property prediction. Currently, I am working on optimizing large generative models for molecule and protein desing.
+I'm a Machine Learning researcher at BioDataLab with expertise in AI-driven solutions for biotechnology and drug discovery. I have Msc in Bioinformatics, combined with hands-on experience in developing generative models and utilizing natural language processing architectures for drug discovery and molecular property prediction. Currently, I am working on optimizing large generative models for molecule and protein desing.
 
 ## You cand find me at:
 
